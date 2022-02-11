@@ -1,0 +1,16 @@
+D:\BootCamp_GFT_DIO\DesafioPooDio_GFT_4\DesafioPooDio_GFT_4\bin\Debug\net5.0\DesafioPooDio_GFT_4.exe
+D:\BootCamp_GFT_DIO\DesafioPooDio_GFT_4\DesafioPooDio_GFT_4\bin\Debug\net5.0\DesafioPooDio_GFT_4.deps.json
+D:\BootCamp_GFT_DIO\DesafioPooDio_GFT_4\DesafioPooDio_GFT_4\bin\Debug\net5.0\DesafioPooDio_GFT_4.runtimeconfig.json
+D:\BootCamp_GFT_DIO\DesafioPooDio_GFT_4\DesafioPooDio_GFT_4\bin\Debug\net5.0\DesafioPooDio_GFT_4.runtimeconfig.dev.json
+D:\BootCamp_GFT_DIO\DesafioPooDio_GFT_4\DesafioPooDio_GFT_4\bin\Debug\net5.0\DesafioPooDio_GFT_4.dll
+D:\BootCamp_GFT_DIO\DesafioPooDio_GFT_4\DesafioPooDio_GFT_4\bin\Debug\net5.0\ref\DesafioPooDio_GFT_4.dll
+D:\BootCamp_GFT_DIO\DesafioPooDio_GFT_4\DesafioPooDio_GFT_4\bin\Debug\net5.0\DesafioPooDio_GFT_4.pdb
+D:\BootCamp_GFT_DIO\DesafioPooDio_GFT_4\DesafioPooDio_GFT_4\obj\Debug\net5.0\DesafioPooDio_GFT_4.csproj.AssemblyReference.cache
+D:\BootCamp_GFT_DIO\DesafioPooDio_GFT_4\DesafioPooDio_GFT_4\obj\Debug\net5.0\DesafioPooDio_GFT_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootCamp_GFT_DIO\DesafioPooDio_GFT_4\DesafioPooDio_GFT_4\obj\Debug\net5.0\DesafioPooDio_GFT_4.AssemblyInfoInputs.cache
+D:\BootCamp_GFT_DIO\DesafioPooDio_GFT_4\DesafioPooDio_GFT_4\obj\Debug\net5.0\DesafioPooDio_GFT_4.AssemblyInfo.cs
+D:\BootCamp_GFT_DIO\DesafioPooDio_GFT_4\DesafioPooDio_GFT_4\obj\Debug\net5.0\DesafioPooDio_GFT_4.csproj.CoreCompileInputs.cache
+D:\BootCamp_GFT_DIO\DesafioPooDio_GFT_4\DesafioPooDio_GFT_4\obj\Debug\net5.0\DesafioPooDio_GFT_4.dll
+D:\BootCamp_GFT_DIO\DesafioPooDio_GFT_4\DesafioPooDio_GFT_4\obj\Debug\net5.0\ref\DesafioPooDio_GFT_4.dll
+D:\BootCamp_GFT_DIO\DesafioPooDio_GFT_4\DesafioPooDio_GFT_4\obj\Debug\net5.0\DesafioPooDio_GFT_4.pdb
+D:\BootCamp_GFT_DIO\DesafioPooDio_GFT_4\DesafioPooDio_GFT_4\obj\Debug\net5.0\DesafioPooDio_GFT_4.genruntimeconfig.cache
